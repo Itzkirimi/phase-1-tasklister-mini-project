@@ -133,8 +133,3 @@ implement one or more of the following:
 * Something of your choice! The main objective is to add a feature that allows
   the user's input to affect the DOM
 
-[example]: https://learn-co-curriculum.github.io/js-task-lister-lite/
-[mdn-pd]: https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault
-[form]: https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
-[input fields]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Input
-[dropdown]: https://www.w3docs.com/learn-html/html-select-tag.html
